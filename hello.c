@@ -6,8 +6,10 @@ printf("Hello");
 
 printf("Nice");
 
-printf("abc"\n);
+printf("abc\n");
 
+  printf("xxxxxxxxxxxxxxxxxxx\n");
+  
 printf("Hello\n");
 printf("Nice\n");
 printf("Nice shot\n");
